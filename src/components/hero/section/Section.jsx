@@ -10,4 +10,4 @@ function Section({head, body}) {
   )
 }
 
-export default Section
+export default Section   

@@ -39,7 +39,7 @@ function Services() {
         },
     ]
   return (
-    <section className="section servcies-sec">
+    <section className="section services-sec">
         <p className="text">what do you need?</p>
         <h1>Our Services</h1>
         <div className="services">

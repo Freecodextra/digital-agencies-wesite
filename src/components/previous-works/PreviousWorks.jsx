@@ -17,7 +17,7 @@ function PreviousWorks() {
         {image: img6, hoverText: "Lingerie Store - Abuja, Nigeria"},
     ]
   return (
-    <section className="section servcies-sec">
+    <section className="section services-sec">
         <p className="text">we create beautiful things</p>
         <h1>Our Previous Works</h1>
         <div className="btns center">

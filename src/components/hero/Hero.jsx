@@ -27,7 +27,7 @@ function Hero() {
         </div>
         <div className="text">
           <div className="text-head">
-            <h1>edensdigital</h1>
+            <h1>guaranty resources </h1>
             <h3>Creative Digital <span>Agency</span></h3>
           </div>
           <div className="text-body">
